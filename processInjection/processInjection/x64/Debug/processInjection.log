@@ -1,0 +1,4 @@
+﻿  processInjection.cpp
+C:\Users\Bonam\Desktop\WINAPI\processInjection\processInjection\processInjection.cpp(55,10): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'DWORD'
+C:\Users\Bonam\Desktop\WINAPI\processInjection\processInjection\processInjection.cpp(55,10): warning C4313: 'printf': '%s' na cadeia de formato está em conflito com o argumento 1 do tipo 'DWORD'
+  processInjection.vcxproj -> C:\Users\Bonam\Desktop\WINAPI\processInjection\processInjection\x64\Debug\processInjection.exe
