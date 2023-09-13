@@ -1,0 +1,3 @@
+﻿  getpid.cpp
+C:\Users\Bonam\Desktop\WINAPI\getpid\getpid\getpid.cpp(56,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  getpid.vcxproj -> C:\Users\Bonam\Desktop\WINAPI\getpid\getpid\x64\Debug\getpid.exe
